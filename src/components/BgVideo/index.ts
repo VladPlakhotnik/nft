@@ -1,0 +1,1 @@
+export { BgVideo } from "./BgVideo.component";
